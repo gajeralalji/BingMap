@@ -1,0 +1,7 @@
+c:\users\lalji\documents\visual studio 2013\Projects\BingMap\BingMap\obj\Debug\BingMap.csprojResolveAssemblyReference.cache
+c:\users\lalji\documents\visual studio 2013\Projects\BingMap\BingMap\bin\Debug\BingMap.dll
+c:\users\lalji\documents\visual studio 2013\Projects\BingMap\BingMap\bin\Debug\BingMap.pdb
+c:\users\lalji\documents\visual studio 2013\Projects\BingMap\BingMap\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+c:\users\lalji\documents\visual studio 2013\Projects\BingMap\BingMap\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+c:\users\lalji\documents\visual studio 2013\Projects\BingMap\BingMap\obj\Debug\BingMap.dll
+c:\users\lalji\documents\visual studio 2013\Projects\BingMap\BingMap\obj\Debug\BingMap.pdb

@@ -15,7 +15,7 @@ using System.Runtime.Serialization.Json;
 using System.Windows.Media.Imaging;
 using System.Windows.Input;
 
-namespace map
+namespace BingMap
 {
     /// <summary>
     /// Bing Map WPF Library V1.0 By-<< Lalaji Gajera >> 
@@ -27,9 +27,9 @@ namespace map
         public Map myMap { get; set; }
         public string MapKey { get; set; }
         private Route route;
-      
-       
-       
+
+
+
 
         /// <summary>
         /// initialize Map object
@@ -251,7 +251,7 @@ namespace map
                         r.ResourceSets[0].Resources.Length > 0)
                     {
 
-                       route = r.ResourceSets[0].Resources[0] as Route;
+                        route = r.ResourceSets[0].Resources[0] as Route;
 
 
 
@@ -566,7 +566,7 @@ namespace map
             image.Opacity = 0.6;
             image.Stretch = System.Windows.Media.Stretch.None;
 
-           
+
             //Center the image around the location specified
             PositionOrigin position = PositionOrigin.Center;
 
@@ -575,11 +575,11 @@ namespace map
             //Add the image layer to the map
             myMap.Children.Add(imageLayer);
         }
-       
-        
-       
+
+
+
     }
 
 
-    
+
 }
